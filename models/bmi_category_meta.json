@@ -1,0 +1,28 @@
+{
+  "task": "bmi_category",
+  "task_type": "classification",
+  "target": "bmi_category",
+  "best_model": "Random Forest",
+  "best_score": 1.0,
+  "features": [
+    "age",
+    "gender",
+    "height_cm",
+    "weight_kg",
+    "bmi",
+    "activity_level",
+    "health_goal",
+    "dietary_preference",
+    "bmr_kcal",
+    "tdee_kcal",
+    "avg_sleep_hours",
+    "daily_steps",
+    "calories_burned_per_day",
+    "stress_level",
+    "fitness_level",
+    "workout_days_per_week",
+    "meal_frequency_per_day",
+    "water_intake_litres",
+    "avg_heart_rate_bpm"
+  ]
+}

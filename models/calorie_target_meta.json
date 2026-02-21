@@ -1,0 +1,28 @@
+{
+  "task": "calorie_target",
+  "task_type": "regression",
+  "target": "daily_calorie_target",
+  "best_model": "Ridge Regression",
+  "best_score": 0.9623,
+  "features": [
+    "age",
+    "gender",
+    "height_cm",
+    "weight_kg",
+    "bmi",
+    "activity_level",
+    "health_goal",
+    "dietary_preference",
+    "bmr_kcal",
+    "tdee_kcal",
+    "avg_sleep_hours",
+    "daily_steps",
+    "calories_burned_per_day",
+    "stress_level",
+    "fitness_level",
+    "workout_days_per_week",
+    "meal_frequency_per_day",
+    "water_intake_litres",
+    "avg_heart_rate_bpm"
+  ]
+}
