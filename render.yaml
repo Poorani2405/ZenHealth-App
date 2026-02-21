@@ -2,6 +2,7 @@ services:
   - type: web
     name: ZenHealth-App
     env: python
+    pythonVersion: 3.11
     region: oregon
     plan: free
     buildCommand: pip install -r requirements.txt
